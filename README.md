@@ -5,9 +5,9 @@ teach 0920 django
 
 教学内容
 
-1.python
-2.django
-3.javascript
+1. python
+2. django
+3. javascript
 
 ## 项目实战
 
